@@ -19,6 +19,10 @@ header> img{
 #iconChamada{
     color: white;
 
+.sobre {
+  
+  max-width: 1000px;
+  margin: 0 auto; 
 
   
 nav.menu {
