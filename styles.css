@@ -1,4 +1,6 @@
 
+
+  
 nav.menu {
   background-color: #ffffff; 
   padding: 15px 0;           
@@ -35,4 +37,17 @@ nav.menu {
 .menu a:hover {
   background-color: #e9eff9; 
   color: #1a335c;             
+}
+
+
+footer{
+    background-color: #2f5aa8;
+    color: white;
+    height: 200px;
+    padding: 12px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
 }
